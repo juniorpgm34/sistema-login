@@ -17,4 +17,4 @@ Os dados de login são salvos no token do navegador, garantindo a persistência 
 
 ## Como abrir o projeto
 
-Acesse o link[https://juniorpgm34.github.io/sistema-login/] da pagina do GitHub Pages.
+Acesse o <a href="https://juniorpgm34.github.io/sistema-login/" target="_blank">link</a> da pagina do GitHub Pages.
